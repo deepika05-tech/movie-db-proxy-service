@@ -1,0 +1,66 @@
+[
+  {
+    "movieId": 1,
+    "popularity99": 83.0,
+    "director": "Victor Fleming",
+    "genre": "Adventure,Family,Fantasy,Musical",
+     "imdb_score": 8.3,
+    "name": "The Wizard of Oz"
+  },
+  {
+    "movieId": 2,
+    "popularity99": 88.0,
+    "director": "George Lucas",
+    "genre": "Action,Adventure,Fantasy,Sci-Fi",
+    "imdb_score": 8.8,
+    "name": "Star Wars"
+  },
+  {
+    "movieId": 3,
+    "popularity99": 66.0,
+    "director": "Giovanni Pastrone",
+    "genre": "Adventure,Drama,War",
+    "imdb_score": 6.6,
+    "name": "Cabiria"
+  },
+  {
+    "movieId": 4,
+    "popularity99": 87.0,
+    "director": "Alfred Hitchcock",
+    "genre": "Horror,Mystery,Thriller",
+    "imdb_score": 8.7,
+    "name": "Psycho"
+  },
+  {
+    "movieId": 5,
+    "popularity99": 80.0,
+    "director": "Merian C. Cooper",
+    "genre": "Adventure,Fantasy,Horror",
+    "imdb_score": 8.0,
+    "name": "King Kong"
+  },
+  {
+    "movieId": 6,
+    "popularity99": 84.0,
+    "director": "Fritz Lang",
+    "genre": "Adventure,Drama,Sci-Fi",
+    "imdb_score": 8.4,
+    "name": "Metropolis"
+  },
+  {
+    "movieId": 7,
+    "popularity99": 86.0,
+    "director": "Marc Daniels",
+    "genre": "Adventure,Sci-Fi",
+    "imdb_score": 8.6,
+    "name": "Star Trek"
+  },
+  {
+    "movieId": 8,
+    "popularity99": 88.0,
+    "director": "Michael Curtiz",
+    "genre": "Drama,Romance,War",
+    "imdb_score": 8.8,
+    "name": "Casablanca"
+  }
+]
