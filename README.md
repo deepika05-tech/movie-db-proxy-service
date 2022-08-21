@@ -4,9 +4,9 @@ REST API for fetching/updating movies from mysql DB using Spring Boot
 
 There are 2 levels of access(hardcoded 2 dummy users): 
 
-admin = who can add, remove or edit movies(username - admin, password - password). 
+Admin = who can add, remove or edit movies(username - admin, password - password). 
 
-users = who can just view the movies(username - user, password - password).
+Users = who can just view the movies(username - user, password - password).
 
 
 Rest endpoints: 
