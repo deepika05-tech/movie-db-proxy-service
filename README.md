@@ -8,6 +8,7 @@ admin = who can add, remove or edit movies(username - admin, password - password
 
 users = who can just view the movies(username - user, password - password).
 
+
 Rest endpoints: 
 
 To get all movie list:
