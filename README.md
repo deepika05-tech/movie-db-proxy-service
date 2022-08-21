@@ -1,5 +1,5 @@
 # movie management api(movie-db-proxy-service)
-A REST api for fetching/updating movies from mysql DB using Spring Boot
+REST API for fetching/updating movies from mysql DB using Spring Boot
 
 
 There are 2 levels of access(hardcoded 2 dummy users): 
